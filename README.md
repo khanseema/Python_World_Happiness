@@ -9,4 +9,6 @@ The following Python tools were used in the analysis:
 * Numpy: for mathematical equations
 * SciPy: for mathematical equations
 
-The project folders contain the raw data and also the python scripts created to analyze the data.
+The project folders contain the raw data and also the python scripts created to analyze the data. The outcome of the analysis is captured in a Tableau story, linked below.
+
+https://public.tableau.com/app/profile/seema.khan/viz/CareerFoundryEx_6_7/WorldHappiness?publish=yes
